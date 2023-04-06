@@ -1,0 +1,4 @@
+username lab7 passward test
+end
+wr
+
