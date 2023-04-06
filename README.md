@@ -1,7 +1,4 @@
-# Multithreading-with-Netmiko.
-
 # Multithreading-with-Netmiko
-Multithreading-with-Netmiko
 
 The purpose of this code is to automate the configuration of multiple Cisco IOS devices using the Netmiko library in Python. I
 it reads a list of IP addresses from a CSV file, connects to each device using either a default or alternate set of credentials, 
